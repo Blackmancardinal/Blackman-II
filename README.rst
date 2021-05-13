@@ -5,12 +5,12 @@ BLACKMAN II
 
 |
 
-BLACKMAN II is a virtual assistant for OS X, Windows and Linux systems. She
+BLACKMAN II is a virtual assistant for OS X, Windows and Linux systems. He
 currently uses Google Chrome's speech-to-text engine, OS X's ``say``
 command, Linux's ``espeak`` command or Ivona TTS along with some magical
-scripting which makes her alive, developed by `Tanay
+scripting which makes him alive, developed by `Tanay
 Pant <http://tanaypant.com>`__ and a group of sorcerers. The Web UI for
-BLACKMAN II has been designed by `Nakul Saxena <http://nakulsaxena.in>`__.
+BLACKMAN II has been designed by `KOFI BLACKMAN <http://Blackmangroupofcompanies.in>`__.
 
 .. raw:: html
 
