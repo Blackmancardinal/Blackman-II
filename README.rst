@@ -1,16 +1,16 @@
-Melissa
+BLACKMAN II
 -------
 
 | |Build Status| |Codacy Badge| |codecov.io|
 
 |
 
-Melissa is a virtual assistant for OS X, Windows and Linux systems. She
+BLACKMAN II is a virtual assistant for OS X, Windows and Linux systems. She
 currently uses Google Chrome's speech-to-text engine, OS X's ``say``
 command, Linux's ``espeak`` command or Ivona TTS along with some magical
 scripting which makes her alive, developed by `Tanay
 Pant <http://tanaypant.com>`__ and a group of sorcerers. The Web UI for
-Melissa has been designed by `Nakul Saxena <http://nakulsaxena.in>`__.
+BLACKMAN II has been designed by `Nakul Saxena <http://nakulsaxena.in>`__.
 
 .. raw:: html
 
@@ -19,7 +19,7 @@ Melissa has been designed by `Nakul Saxena <http://nakulsaxena.in>`__.
    </p>
 
 Check out our
-`wiki <https://github.com/Melissa-AI/Melissa-Core/wiki>`__, where we
+`wiki <https://github.com/BLACKMANII-AI/BLACKMANII-Core/wiki>`__, where we
 have installation and configuration instructions, usage guide as well as
 relevant documentation.
 
@@ -36,13 +36,13 @@ Licence
 ~~~~~~~
 
 `The MIT License
-(MIT) <https://github.com/Melissa-AI/Melissa-Core/blob/master/LICENSE.md>`__
+(MIT) <https://github.com/BLACKMANII/BLACKMANII-Core/blob/master/LICENSE.md>`__
 
 .. |Build Status| image:: https://api.travis-ci.org/Melissa-AI/Melissa-Core.svg?branch=master
-   :target: https://travis-ci.org/Melissa-AI/Melissa-Core/
+   :target: https://travis-ci.org/BLACKMANII/BLACKMANII-Core/
 .. |Codacy Badge| image:: https://api.codacy.com/project/badge/Grade/b1394316e9eb40bbbf51a12530c4f86d
-   :target: https://www.codacy.com/app/tanay1337/Melissa-Core?utm_source=github.com&utm_medium=referral&utm_content=Melissa-AI/Melissa-Core&utm_campaign=Badge_Grade
-.. |codecov.io| image:: http://codecov.io/github/Melissa-AI/Melissa-Core/coverage.svg?branch=master
-   :target: http://codecov.io/github/Melissa-AI/Melissa-Core?branch=master
-.. |Join the chat at https://gitter.im/Melissa-AI/Melissa-Core| image:: https://badges.gitter.im/Melissa-AI/Melissa-Core.svg
-   :target: https://gitter.im/Melissa-AI/Melissa-Core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+   :target: https://www.codacy.com/app/tanay1337/BLACKMANII-Core?utm_source=github.com&utm_medium=referral&utm_content=BLACKMANII-AI/BLACKMANII-Core&utm_campaign=Badge_Grade
+.. |codecov.io| image:: http://codecov.io/github/BLACKMANII-AI/BLACKMANII-Core/coverage.svg?branch=master
+   :target: http://codecov.io/github/BLACKMANII-AI/Melissa-Core?branch=master
+.. |Join the chat at https://gitter.im/BLACKMANII-AI/BLACKMANII-Core| image:: https://badges.gitter.im/BLACKMANII-AI/BLACKMANII-Core.svg
+   :target: https://gitter.im/BLACKMANII-AI/BLACKMANII-Core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
