@@ -29,7 +29,7 @@ setup(
     python_requires='==2.7',
     install_requires=[
           'markdown', 
-          'wheel==0.24.0',
+          'wheel==0.38.1',
           'six==1.10.0', 
           'oauthlib==1.0.3',
           'requests-oauthlib==0.5.0', 
